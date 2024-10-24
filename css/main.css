@@ -499,7 +499,9 @@ h1 {
     max-width: none;
   }
 }
-
+.headline__portfolio{
+  text-align: center;
+}
 .headline__subtitle.space-top {
   margin-top: 4.6rem;
 }
